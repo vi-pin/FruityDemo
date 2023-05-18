@@ -1,13 +1,21 @@
 FruityDemo API
+
 This is a simple API that provides endpoints to retrieve information about fruits.
 
 Endpoints
+
 Get all fruits
+
 URL: /api/fruit
+
 Method: GET
+
 Description: Retrieves a list of all fruits.
+
 Response: 200 OK, with an array of fruits in the response body.
+
 Get fruits by family
+
 URL: /api/fruit/family
 Method: POST
 Description: Retrieves a list of fruits belonging to a specific fruit family.
