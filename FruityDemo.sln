@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FruityDemo", "FruityDemo\FruityDemo.csproj", "{EFB7513F-CDD4-4E52-A2DE-1FBE9D0E086E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruityDemo.Tests", "FruityDemoTests\FruityDemo.Tests.csproj", "{96BA3FF6-8A4E-4EDB-B2E1-EB2380DF44C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFB7513F-CDD4-4E52-A2DE-1FBE9D0E086E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFB7513F-CDD4-4E52-A2DE-1FBE9D0E086E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFB7513F-CDD4-4E52-A2DE-1FBE9D0E086E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFB7513F-CDD4-4E52-A2DE-1FBE9D0E086E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96BA3FF6-8A4E-4EDB-B2E1-EB2380DF44C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96BA3FF6-8A4E-4EDB-B2E1-EB2380DF44C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96BA3FF6-8A4E-4EDB-B2E1-EB2380DF44C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96BA3FF6-8A4E-4EDB-B2E1-EB2380DF44C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B8545BC-52C7-465A-BBA5-98F0FE446C42}
+	EndGlobalSection
+EndGlobal
